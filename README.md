@@ -1,0 +1,1 @@
+# MDN-byo-function
